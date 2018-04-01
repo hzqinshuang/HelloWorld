@@ -20,7 +20,7 @@ public class ServletTest extends HttpServlet {
 	  public void init() throws ServletException
 	  {
 	      // 执行必需的初始化
-	      message = "Hello World!!!";
+	      message = "Hello World!!";
 	  }
 
 	  public void doGet(HttpServletRequest request,
